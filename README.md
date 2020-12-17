@@ -16,6 +16,7 @@
 
 [<img align="left" alt="YouTube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][website]
 [<img align="left" alt="dor92871 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="dor92871 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" />][Steam]
 
 <br />
 
@@ -51,3 +52,4 @@
 [jsplaylist]: https://www.5ggyan.com/2020/11/javascript-course-free-download.html
 [cssplaylist]: https://www.5ggyan.com/2020/11/html-and-css-course-free-download.html
 [reactplaylist]: https://www.5ggyan.com/2020/10/modern-react-with-redux-course.html
+[steam]: https://steamcommunity.com/id/2i0_
