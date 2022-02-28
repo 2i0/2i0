@@ -1,4 +1,4 @@
-### Hi there, I'm Dor - aka [T0xᎥc#5000][website] 👋
+### Hi there, I'm Dor - aka [Doritos][website] 👋
 
 
 ## I'm a Coder, Leader, Developer, and Teacher!!
@@ -50,7 +50,7 @@
 
 </details>
 
-[website]: https://discord.gg/2mRc9P4
+[website]: https://www.doritos.com/
 [course]: https://mega.nz/folder/lhR0BLjA#xucI896UlE7Cs3sxyTL6Ig
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/dor92871/
